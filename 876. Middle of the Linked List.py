@@ -35,7 +35,7 @@ class ListNode:
 
 
 class Solution:
-    def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
+    def middleNode(self, head: ListNode) -> ListNode:
         m = head
         head = head.next
         if head:
