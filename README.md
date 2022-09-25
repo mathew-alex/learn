@@ -1,1 +1,1 @@
-# repo for tutorials/practices
+# repo for tutorials/practices with Leetcode study plan
